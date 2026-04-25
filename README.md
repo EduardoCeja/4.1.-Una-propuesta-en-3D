@@ -32,7 +32,7 @@ El juego consiste en controlar un personaje dentro de un escenario 3D, desplazar
 
 ## Autor
 
-Brayan Salas
+Eduardo Ceja Robles
 
 Referencias 
 
